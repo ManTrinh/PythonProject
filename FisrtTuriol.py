@@ -1,3 +1,3 @@
 sStrVal = "Fisrt Value String"
 sStrShow = sStrVal[::-1]
-print(sStrShow * 100)
+print(sStrShow * 3)
