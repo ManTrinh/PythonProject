@@ -1,3 +1,3 @@
-sStrVal = "Fisrt Value String"
-sStrShow = sStrVal[::-1]
-print(sStrShow * 3)
+sStrVal = "Hello World"
+sStrShow = sStrVal[6:] + sStrVal[:5]
+print(sStrShow)
