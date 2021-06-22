@@ -33,7 +33,7 @@ def doCommand(nMode):
                 break
         elif nMode == 1:
             nVertiCross = input(int)
-            if int(nVertiCross) > 7:
+            if int(nVertiCross) > 11:
                 break;
         else:
             nHoziCross = input()
